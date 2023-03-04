@@ -1,4 +1,10 @@
-[
+{
+  "currentUser": {
+    "image": "user-images/image-jesse.jpg",
+    "name": "Jesse Ronda",
+    "username": "jesse10930"
+  },
+  "productRequests": [
     {
       "id": 1,
       "title": "Add tags for solutions",
@@ -42,6 +48,15 @@
             "username": "anonymous"
           },
           "id": 1677713688214
+        },
+        {
+          "content": "gdbg",
+          "user": {
+            "image": "user-images/default.jpg",
+            "name": "Anonymous",
+            "username": "anonymous"
+          },
+          "id": 1677857837624
         }
       ]
     },
@@ -185,6 +200,15 @@
             "name": "Jackson Barker",
             "username": "countryspirit"
           }
+        },
+        {
+          "content": "gjkj",
+          "user": {
+            "image": "user-images/default.jpg",
+            "name": "Anonymous",
+            "username": "anonymous"
+          },
+          "id": 1677858979351
         }
       ]
     },
@@ -194,7 +218,27 @@
       "category": "bug",
       "upvotes": 3,
       "status": "suggestion",
-      "description": "Challenge preview images are missing when you apply a filter."
+      "description": "Challenge preview images are missing when you apply a filter.",
+      "comments": [
+        {
+          "content": "salut",
+          "user": {
+            "image": "user-images/default.jpg",
+            "name": "Anonymous",
+            "username": "anonymous"
+          },
+          "id": 1677859960108
+        },
+        {
+          "content": "nmmm",
+          "user": {
+            "image": "user-images/default.jpg",
+            "name": "Anonymous",
+            "username": "anonymous"
+          },
+          "id": 1677859967209
+        }
+      ]
     },
     {
       "id": 7,
@@ -287,7 +331,8 @@
       "category": "bug",
       "upvotes": 9,
       "status": "in-progress",
-      "description": "Screenshots of solutions with animations don’t display correctly."
+      "description": "Screenshots of solutions with animations don’t display correctly.",
+      "comments": []
     },
     {
       "id": 12,
@@ -320,34 +365,28 @@
       ]
     },
     {
-      "title": "salam",
-      "category": "Bug",
-      "description": "salamsalamsalam salam",
-      "id": 13
-    },
-    {
-      "title": "salamsalamsalamsalamv",
+      "title": "test",
       "category": "Feature",
-      "description": "eeee",
-      "id": 14
-    },
-    {
-      "title": "salam salut",
-      "category": "Feature",
-      "description": "cv salamsalamv",
-      "id": 15
-    },
-    {
-      "title": "sfaqfe",
-      "category": "Bug",
-      "description": "asfasdfsad",
-      "id": 16
-    },
-    {
-      "title": "nvb;jhb",
-      "category": "Feature",
-      "description": "jkhb;jbljk",
-      "id": 17
+      "description": "test",
+      "comments": [
+        {
+          "content": "nn",
+          "user": {
+            "image": "user-images/default.jpg",
+            "name": "Anonymous",
+            "username": "anonymous"
+          },
+          "id": 1677862000585
+        }
+      ],
+      "id": 21
     }
+  ],
+  "catergories": [
+    "Enhancement",
+    "Ul",
+    "UX",
+    "Bug",
+    "Feature"
   ]
- 
+}
